@@ -1,10 +1,12 @@
 # Frações
 
-![representação](img/2023-07-20_06-03.png)
+<img src="img/2023-07-20_06-03.png" alt="drawing" width="700"/>
+
 
 ## Frações equivalentes
 Frações equivalente, são frações que representam a mesma parte do todo.
-![equivalentes](img/2023-07-20_06-05.png)
+<img src="img/2023-07-20_06-05.png" alt="drawing" width="700"/>
+
 
 Para obtermos frações equivalentes, basta multiplicarmos o numerador e o denominador pelo mesmo número.
 
@@ -15,12 +17,13 @@ Para obtermos frações equivalentes, basta multiplicarmos o numerador e o denom
 
 tiramos o MMC dos denominadores
 
-![redução](img/2023-07-20_06-11.png)
+<img src="img/2023-07-20_06-11.png" alt="drawing" width="700"/>
 
 exemplo do uso do MMC para reduzir ao mesmo denominador.
  O uso de redução é interessante para que possamos fazer operações e comparações
 
-![ex](img/2023-07-20_06-15.png)
+<img src="img/2023-07-20_06-15.png" alt="drawing" width="700"/>
+
 
 ## Comparação de fração
 
@@ -30,7 +33,7 @@ exemplo do uso do MMC para reduzir ao mesmo denominador.
 
 2. Denominadores diferentes
 
-![ex](img/2023-07-20_06-21.png)
+<img src="img/2023-07-20_06-21.png" alt="drawing" width="700"/>
 
         28/35 < 30/35
 
@@ -44,7 +47,7 @@ exemplo do uso do MMC para reduzir ao mesmo denominador.
 
 ## Numero misto
 Uma parte inteira mais a fracionaria
-![misto](img/2023-07-20_06-35.png)
+<img src="img/2023-07-20_06-35.png" alt="drawing" width="700"/>
 
 ## Multiplicação de frações
 Multiplicamos numerador por numerador e denominador por denominador
@@ -54,13 +57,13 @@ Multiplicamos numerador por numerador e denominador por denominador
 
 Podemos simplificar alguns números
 
-![simplificando](img/2023-07-20_06-39.png)
+<img src="img/2023-07-20_06-39.png" alt="drawing" width="700"/>
 
 ## Divisão de Frações
 Multiplicamos o primeiro pelo inverso do segundo
 
-![2023-07-20_06-42](img/2023-07-20_06-42.png)
+<img src="img/2023-07-20_06-42.png" alt="drawing" width="700"/>
 
 
 ## Sinal em frações
-![2023-07-20_06-42](img/2023-08-08_06-37.png)
+<img src="img/2023-08-08_06-37.png" alt="drawing" width="700"/>

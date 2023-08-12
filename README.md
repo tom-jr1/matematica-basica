@@ -13,3 +13,6 @@
 - [**Radiciação**](/src/06-radiciacao/radiciacao.md)
 
 - [**Racionalização de Denominadores**](/src/07-racionalizacao/racionalizacao-de-denominadores.md)
+
+- [**Produtos Notáveis**](/src/08-produtos-notaveis/produtos-notaveis.md)
+

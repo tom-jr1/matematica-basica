@@ -16,3 +16,5 @@
 
 - [**Produtos Notáveis**](/src/08-produtos-notaveis/produtos-notaveis.md)
 
+- [**Fatoração de Expressões Algébricas**](/src/09-fatoracao-expressoes-algebricas/fatoracao-expressoes-algebricas.md)
+

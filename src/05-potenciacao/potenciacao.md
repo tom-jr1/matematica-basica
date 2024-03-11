@@ -31,7 +31,7 @@ Notas:
 ## Propriedades
 
 P1
-<img src="img/img/2023-07-25_06-26.png" alt="drawing" width="700"/>
+<img src="img/2023-07-25_06-26.png" alt="drawing" width="700"/>
 
 <img src="img/2023-07-25_06-30.png" alt="drawing" width="700"/>
 
